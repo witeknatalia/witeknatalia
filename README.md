@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I’m Natalia.<br><br>- 🔭 Working as an **Automation QA Engineer**, specialising in **JavaScript** .<br>- 📚 Learning **TypeScript** to level up my frameworks.  <br>- ⚡ Free time = Gaming 🎮  or walking the dog 🐕 .</p>
+<p align="left">I’m Natalia.<br><br>- 🔭 Working as an Automation QA Engineer, specialising in JavaScript .<br>- 📚 Learning **TypeScript** to level up my frameworks.  <br>- ⚡ Free time = Gaming 🎮  or walking the dog 🐕 .</p>
 
 ###
 
