@@ -1,18 +1,14 @@
- <div align="center">
-    <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDhieW50cmlsZHF1NXhpNzd2cmpoeDFhbmFwbWNsb3dwdW13MXp5OCZlcD
-  12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif"  />
+   <div align="center">
+    <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDhieW50cmlsZHF1NXhpNzd2cmpoeDFhbmFwbWNsb3dwdW13MXp5OCZlc
+  D12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif"  />
   </div>
 
-  ###
+
 
   <div align="center">
-    <a href="https://witeknatalia.github.io" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=222222&logoColor=white&labelColor=&sty
-  le=for-the-badge" height="25" alt="portfolio"  />
-    </a>
     <a href="https://www.linkedin.com/in/witeknatalia/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=f
-  or-the-badge" height="25" alt="linkedin logo"  />
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=
+  for-the-badge" height="25" alt="linkedin logo"  />
     </a>
   </div>
 
